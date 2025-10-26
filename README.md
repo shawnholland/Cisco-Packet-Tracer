@@ -15,7 +15,7 @@ This documentation outlines the step-by-step process I followed to replicate a s
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/6nJpBDr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/6nJpBDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
